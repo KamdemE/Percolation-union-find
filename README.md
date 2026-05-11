@@ -13,7 +13,7 @@ La connectivité entre cellules est gérée par la structure de données **Union
 ## Structure du projet
 
 ```
-percolation-union-find/
+Percolation-union-find/
 ├── src/
 │   ├── Percolation.java      # Simulation de percolation + Monte Carlo
 │   ├── UnionFind.java        # Union-Find optimisé (union par rang + compression de chemin)
@@ -73,8 +73,8 @@ La méthode active se choisit dans `ispercolation()` dans `Percolation.java`.
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/YOUR_USERNAME/percolation-union-find.git
-cd percolation-union-find
+git clone https://github.com/KamdemE/Percolation-union-find.git
+cd Percolation-union-find
 
 # Compiler
 javac src/*.java -d out/
@@ -101,7 +101,7 @@ Temps d'exécution : 342 ms
 ## Auteur
 
 **KAMDEM KOUAM Ezechiel**  
-GitHub : [@KamdemE](https://github.com/KamdemE)
+GitHub : https://github.com/KamdemE
 
 ---
 
